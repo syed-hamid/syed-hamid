@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syed-hamid
+- 👋 Hi, I’m Syed Muhtasim Hamid
 - 👀 I’m interested in Neuroscience
 - 🌱 I’m currently learning NESC 3505
 - 💞️ I’m looking to collaborate on ...
